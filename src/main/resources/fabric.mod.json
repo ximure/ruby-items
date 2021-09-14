@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "rubyitems",
+  "version": "0.1",
+  "name": "rubyitems",
+  "description": "My first modding project",
+  "authors": [
+    "ximure"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/rubyitems/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.ximure.rubyitems.RubyItems"
+    ]
+  },
+  "mixins": [
+    "rubyitems.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.10.7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.ximure.rubyitems.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "RubyOreGenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "itemGroup.rubyitems.items": "Рубиновые предметы",
+  "item.rubyitems.ruby": "Рубин",
+  "block.rubyitems.ruby_ore": "Рубиновая руда",
+  "block.rubyitems.ruby_block": "Блок рубина",
+  "item.rubyitems.ruby_sword": "Рубиновый меч",
+  "item.rubyitems.ruby_shovel": "Рубиновая лопата",
+  "item.rubyitems.ruby_pickaxe": "Рубиновая кирка",
+  "item.rubyitems.ruby_hoe": "Рубиновая мотыга",
+  "item.rubyitems.ruby_axe": "Рубиновый топор",
+    "item.rubyitems.ruby_helmet": "Рубиновый шлем",
+  "item.rubyitems.ruby_chestplate": "Рубиновый нагрудник",
+  "item.rubyitems.ruby_leggings": "Рубиновые поножи",
+  "item.rubyitems.ruby_boots": "Рубиновые ботинки"
+}
